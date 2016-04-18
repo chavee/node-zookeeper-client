@@ -1,7 +1,7 @@
 # node-zookeeper-client
 
 A pure Javascript [ZooKeeper](http://zookeeper.apache.org) client module for
-[Node.js](http://nodejs.org).
+[Node.js](http://nodejs.org) with TLS.
 
 [![NPM](https://nodei.co/npm/node-zookeeper-client.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-zookeeper-client/)
 
